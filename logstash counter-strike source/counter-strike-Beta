@@ -1,0 +1,5 @@
+pseudo (.*)
+totalID (.*)
+steam (.*)
+equipe (.*)
+say (.*)
