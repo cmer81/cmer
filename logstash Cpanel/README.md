@@ -1,4 +1,4 @@
-Configutation Logstash for cpanel and CSF
+Configuration Logstash for cpanel and CSF
 ====
 
 For [CSF] redirect your log iptables in file /var/log/frewall.log.
