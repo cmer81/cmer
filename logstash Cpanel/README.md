@@ -1,7 +1,7 @@
 Configutation Logstash for cpanel and CSF
 ====
 
-For [CSF] redirect your log in /var/log/frewall.log.
+For [CSF] redirect your log iptables in file /var/log/frewall.log.
 > Edit your /etc/rsyslog.conf and add 
 
 ```sh
